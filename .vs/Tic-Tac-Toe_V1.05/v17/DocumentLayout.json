@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Tic-Tac-Toe (X-O)\\Tic-Tac-Toe_V1.05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FACF175-7427-4C1A-B6B9-A3FE8C2807C9}|..\\Tic-Tac-Toe_1.05\\Tic-Tac-Toe_1.05.vcxproj|C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Tic-Tac-Toe (X-O)\\Tic-Tac-Toe_1.05\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FACF175-7427-4C1A-B6B9-A3FE8C2807C9}|..\\Tic-Tac-Toe_1.05\\Tic-Tac-Toe_1.05.vcxproj|C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Tic-Tac-Toe (X-O)\\Tic-Tac-Toe_1.05\\Board.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FACF175-7427-4C1A-B6B9-A3FE8C2807C9}|..\\Tic-Tac-Toe_1.05\\Tic-Tac-Toe_1.05.vcxproj|C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Tic-Tac-Toe (X-O)\\Tic-Tac-Toe_1.05\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FACF175-7427-4C1A-B6B9-A3FE8C2807C9}|..\\Tic-Tac-Toe_1.05\\Tic-Tac-Toe_1.05.vcxproj|C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Tic-Tac-Toe (X-O)\\Tic-Tac-Toe_1.05\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FACF175-7427-4C1A-B6B9-A3FE8C2807C9}|..\\Tic-Tac-Toe_1.05\\Tic-Tac-Toe_1.05.vcxproj|C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Tic-Tac-Toe (X-O)\\Tic-Tac-Toe_1.05\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Tic-Tac-Toe (X-O)\\Tic-Tac-Toe_1.05\\Game.cpp",
+              "RelativeDocumentMoniker": "..\\Tic-Tac-Toe_1.05\\Game.cpp",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Tic-Tac-Toe (X-O)\\Tic-Tac-Toe_1.05\\Game.cpp",
+              "RelativeToolTip": "..\\Tic-Tac-Toe_1.05\\Game.cpp",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAcwC0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T05:01:27.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.hpp",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Tic-Tac-Toe (X-O)\\Tic-Tac-Toe_1.05\\Game.hpp",
+              "RelativeDocumentMoniker": "..\\Tic-Tac-Toe_1.05\\Game.hpp",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Tic-Tac-Toe (X-O)\\Tic-Tac-Toe_1.05\\Game.hpp",
+              "RelativeToolTip": "..\\Tic-Tac-Toe_1.05\\Game.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T05:01:07.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Tic-Tac-Toe (X-O)\\Tic-Tac-Toe_1.05\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\Tic-Tac-Toe_1.05\\Main.cpp",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Tic-Tac-Toe (X-O)\\Tic-Tac-Toe_1.05\\Main.cpp",
+              "RelativeToolTip": "..\\Tic-Tac-Toe_1.05\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T04:59:40.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.hpp",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Tic-Tac-Toe (X-O)\\Tic-Tac-Toe_1.05\\Board.hpp",
+              "RelativeDocumentMoniker": "..\\Tic-Tac-Toe_1.05\\Board.hpp",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Tic-Tac-Toe (X-O)\\Tic-Tac-Toe_1.05\\Board.hpp",
+              "RelativeToolTip": "..\\Tic-Tac-Toe_1.05\\Board.hpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T04:58:54.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Board.cpp",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Tic-Tac-Toe (X-O)\\Tic-Tac-Toe_1.05\\Board.cpp",
+              "RelativeDocumentMoniker": "..\\Tic-Tac-Toe_1.05\\Board.cpp",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Omimas\\C\u002B\u002B_Games\\Tic-Tac-Toe (X-O)\\Tic-Tac-Toe_1.05\\Board.cpp",
+              "RelativeToolTip": "..\\Tic-Tac-Toe_1.05\\Board.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T04:58:23.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
