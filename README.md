@@ -8,8 +8,7 @@ The list of games will be updated regularly as new projects are added. Here’s 
 
 1. **Tic-Tac-Toe**
 2. **Snake Game**
-3. **Minesweeper**
-4. **Pong**
-5. **Space Invaders**
-6. **Platformer Game**  
+3. **Pong**
+4. **Space Invaders**
+5. **Platformer Game**  
 *...and more to come!*
